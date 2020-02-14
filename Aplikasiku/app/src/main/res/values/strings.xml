@@ -1,6 +1,9 @@
 <resources>
 	<string name="app_name">Aplikasiku</string>
+    <string name="welcome_name">Welcome to Aplikasiku</string>
+    <string name="tagline">WWhat is going to happen tomorrow ?</string>
 	<string name="logo_text">Aplikasiku</string>
+    <string name="login">Login</string>
 	<string name="sign_in">Sign In</string>
 	<string name="welcome_back">Welcome Back</string>
 	<string name="sign_in_to_continue">Sign in to continue</string>
